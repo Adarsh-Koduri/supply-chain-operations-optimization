@@ -10,44 +10,49 @@ The goal was not just to visualize supply chain data, but to diagnose where oper
 
 ## Tools Used
 ### Python (Pandas)
-*Data cleaning
-*Datetime conversion
-*Missing value handling
-*Feature engineering
+* Data cleaning
+* Datetime conversion
+* Missing value handling
+* Feature engineering
 ### SQL (MySQL via DBeaver)
-*KPI analysis
-*Aggregations
-*Bottleneck detection
-*Root cause analysis
+* KPI analysis
+* Aggregations
+* Bottleneck detection
+* Root cause analysis
 ### Power BI
-*Interactive dashboard development
-*KPI reporting
-*Multi-page visual storytelling
-*Executive and operational insights
+* Interactive dashboard development
+* KPI reporting
+* Multi-page visual storytelling
+* Executive and operational insights
 
 ##  Key Findings
-*56.6% of shipments were delayed, showing a major supply chain performance issue.
+* 56.6% of shipments were delayed, showing a major supply chain performance issue.
 
-*Heavy traffic caused a 100% delay rate, making it the single biggest operational bottleneck.
+* Heavy traffic caused a 100% delay rate, making it the single biggest operational bottleneck.
 
-*Inventory shortages had little impact on delay rates, meaning stock levels were not the primary problem.
+* Inventory shortages had little impact on delay rates, meaning stock levels were not the primary problem.
 
-*Peak delay periods were concentrated in specific hours, especially around hour 17, hour 14, and hour 4.
+* Peak delay periods were concentrated in specific hours, especially around hour 17, hour 14, and hour 4.
 
-*Waiting time showed a strong relationship with delays, pointing to dispatch and routing inefficiencies.
+* Waiting time showed a strong relationship with delays, pointing to dispatch and routing inefficiencies.
 
-*Asset performance varied across trucks, with some assets showing weaker efficiency and higher delay contribution than others.
+* Asset performance varied across trucks, with some assets showing weaker efficiency and higher delay contribution than others.
 
-*Traffic, weather, and mechanical failure emerged as the main recorded reasons behind delayed shipments, with traffic dominating under heavy congestion conditions.
+* Traffic, weather, and mechanical failure emerged as the main recorded reasons behind delayed shipments, with traffic dominating under heavy congestion conditions.
 
 ---
 
 ##  Results & Business Impact
 Identified a system-wide logistics issue, with **more than half** of all shipments delayed.
+
 Confirmed that **traffic conditions** were the dominant cause of delays, especially in heavy congestion scenarios.
+
 Showed that **inventory risk was not meaningfully associated** with delay risk, preventing misdirected optimization efforts.
+
 Highlighted time-based inefficiencies, revealing windows of peak operational breakdown.
+
 Ranked asset-level performance, helping distinguish higher-performing trucks from weaker contributors.
+
 Built a multi-page Power BI dashboard that translates raw operational data into business-facing insights and recommendations.
 
 ---
