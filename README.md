@@ -122,28 +122,25 @@ Designed a multi-page interactive dashboard:
 
 ### Executive Overview
 
-<img width="1534" height="757" alt="1" src="https://github.com/user-attachments/assets/e58df17a-2192-4ef8-a2fb-41ffba2884e0" />
-
+<img width="1534" height="744" alt="1" src="https://github.com/user-attachments/assets/da422b42-fa37-47ad-b739-8c3e9f09ed7d" />
 
 ### Delay Root Cause Analysis
 
-<img width="1554" height="760" alt="2" src="https://github.com/user-attachments/assets/b3442aa6-4d9b-4755-ac03-4b8ade4e4bbe" />
-
+<img width="1533" height="752" alt="2" src="https://github.com/user-attachments/assets/53f0d84b-133f-454f-b9ae-937d89f9b6f0" />
 
 ### Inventory & Demand Analysis
 
-<img width="1544" height="772" alt="3" src="https://github.com/user-attachments/assets/584be1a6-a8cf-49f3-bd88-9b3d62b344cf" />
+<img width="1547" height="768" alt="3" src="https://github.com/user-attachments/assets/30b56668-c26f-47e3-89aa-555fa78a1331" />
 
 
 ### Asset Performance
 
-<img width="1550" height="758" alt="4" src="https://github.com/user-attachments/assets/259353d0-f91f-4a8e-9084-b681e206d302" />
+<img width="1519" height="755" alt="4" src="https://github.com/user-attachments/assets/f7850a81-14bc-42d7-9135-5676962a50ca" />
 
 
 ### Root Cause Analysis
 
-<img width="1539" height="775" alt="5" src="https://github.com/user-attachments/assets/3cf96639-23c9-45a0-a79f-847d3b6cc23f" />
-
+<img width="1531" height="757" alt="5" src="https://github.com/user-attachments/assets/f6f8c60b-6309-4082-8651-09105e4eba22" />
 
 ---
 
